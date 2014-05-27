@@ -1,0 +1,233 @@
+# Map file for tile-based game
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   o       Shield Power Up
+#   *       Goal
+#   1       Blue Ship
+#   2       Red Ship
+#           Small Ship
+#   4       Boss Ship
+
+AAAAAABABAAA
+K**********I
+A          A
+A          A
+A    4     A
+A          A
+A          A
+A          A
+A          A
+A0000000000A
+A          A
+A          A
+A          A
+AAAAA  AAAAA
+A          A
+A          B
+A          A
+A  2       A
+B          A
+A    3     A
+A          B
+A    1     A
+B          A
+A          A
+B          A
+A          A
+A          A
+A          B
+AAAAAAA o  B
+A          A
+A    2     A
+B          A
+A          A
+A          A
+A          A
+ABB   BBBBBA
+A          A
+A          A
+B    1    2A
+A          A
+B          A
+A2         A
+A          A
+A          A
+A          B
+A    1     B
+A        3 B
+A    2     A
+A          A
+B          A
+A 3        A
+A        2 A
+A          A
+B          A
+A    1     A
+A          A
+A      1   B
+A  1       A
+B          A
+A          A
+A          A
+A          A
+BBBBB ~ AAAA
+A          A
+A 2 1    2 A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+AAAAAAAA o A
+A          A
+B   1      A
+A          A
+A          A
+A       AAAA
+A          A
+A          A
+BBBB    BBBB
+A          A
+A 2        A
+B   1      A
+A          A
+A          A
+A          A
+A    3     B
+A          A
+A          A
+A      2   B
+A          B
+A  2       B
+B          A
+A          A
+A 1      1 A
+A          A
+A          A
+A          A
+B   1      B
+A  2     2 A
+A   2 2    A
+A          A
+A          A
+A          A
+A 1    1   A
+B          A
+A          A
+A 3        A
+A          A
+A     1    A
+A          A
+A  23      A
+A          A
+A          B
+A        AAA
+A  2       A
+A          A
+A          A
+A 3        A
+A          A
+A       1  A
+A          A
+A  1       A
+A          A
+A          A
+BBB   o    A
+A          A
+A          A
+A          A
+A     3    A
+A          A
+A   2   1  A
+A          A
+B 3    2   A
+A          B
+A        3 B
+A   2      B
+A          A
+A   1      A
+A          A
+A2         A
+B         3A
+B          A
+A          A
+A          A
+A2         A
+A        2 A
+A         2A
+A          A
+A          A
+A          A
+A  2       A
+A          B
+A     1    B
+A         2A
+A  2  1    A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+LGGMo LGGGGM
+A          B
+A         2A
+A          A
+A2         A
+A     2    A
+A   1      A
+B          A
+A  1       A
+A          A
+A          A
+A 1   1    A
+A          A
+A          A
+A          A
+A          A
+A          A
+ABBBBB     A
+A          A
+A    1     A
+A          A
+A          A
+A          A
+A          A
+A2         A
+A   1  1   A
+A         2A
+A          A
+A2   3     A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+AALGGGGGM oA
+A          A
+A       1  A
+B          A
+A          A
+A          A
+A          A
+A          B
+AAAAAAA  AAA
+A          A
+A          A
+B          A
+A          A
+A          A
+A          A
+A          A
+A          A
+A          A
+AAABABAABAAB
